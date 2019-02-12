@@ -18,6 +18,15 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "nicksedz",
+      "name": "Nicholas Sedlazek",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/14098809?v=4",
+      "profile": "http://nicksedlazek.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
